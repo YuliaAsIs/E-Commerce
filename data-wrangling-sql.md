@@ -122,7 +122,3 @@ SELECT *
 FROM payments
 WHERE payment_value > 0;
 ```
-
----
-
-✅ **Next step:** Use these cleaned views for **SQL analysis and Power BI dashboards**.
