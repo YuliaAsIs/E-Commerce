@@ -104,7 +104,7 @@ WHERE payment_value <= 0;
 ➡️ 9 zero values detected.
 ---
 
-## 6. Creating Cleaned Views
+## 5. Creating Cleaned Views
 
 Best practice: keep raw tables intact and create **views** for analysis.
 
