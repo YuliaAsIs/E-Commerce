@@ -57,6 +57,8 @@ Products ↔ Categories
 
 Customers & Sellers ↔ Geolocation
 
+![diagram](ERDiagram.png)
+
 ---
 
 ## 🧹 [SQL Data Wrangling & Cleaning](data-wrangling-sql.md)
